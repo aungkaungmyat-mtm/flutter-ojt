@@ -86,6 +86,7 @@ class UserRepositoryImpl implements BaseUserRepository {
             accessToken: googleAuth.accessToken, idToken: googleAuth.idToken);
 
         await _auth.signInWithCredential(credential);
+        logger.i('User Successfully Registered');
       } else {
         throw auth.FirebaseException(
           plugin: 'firebase_auth',
