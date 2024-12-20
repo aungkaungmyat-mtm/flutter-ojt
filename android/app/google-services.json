@@ -1,45 +1,37 @@
 {
   "project_info": {
-    "project_number": "839521872245",
-    "project_id": "flutter-ojt-adc11",
-    "storage_bucket": "flutter-ojt-adc11.firebasestorage.app"
+    "project_number": "849984198070",
+    "project_id": "flutter-ojt-33f6c",
+    "storage_bucket": "flutter-ojt-33f6c.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:839521872245:android:af4091ade7951a829c0b3c",
+        "mobilesdk_app_id": "1:849984198070:android:c6508a817769b3a7dfdd17",
         "android_client_info": {
           "package_name": "com.example.ojt_project"
         }
       },
       "oauth_client": [
         {
-          "client_id": "839521872245-bg1ah4s6q9uc8bgm03h3tbgeh2dsv441.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.ojt_project",
-            "certificate_hash": "4fc849b42d15cde132972f3c545a5c8d98cd04f3"
-          }
-        },
-        {
-          "client_id": "839521872245-6biq0560qi3br2aj64v9i6bt4jlkt1ad.apps.googleusercontent.com",
+          "client_id": "849984198070-ttkn861ee3sgt7v4hmhii5h425paodl7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBY9MaKf8kM7usIwmg5E1Lher_FensSVws"
+          "current_key": "AIzaSyAhFrcCtDU947gA2WgmPhB2-rC377PNW_s"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "839521872245-6biq0560qi3br2aj64v9i6bt4jlkt1ad.apps.googleusercontent.com",
+              "client_id": "849984198070-ttkn861ee3sgt7v4hmhii5h425paodl7.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "839521872245-2c0cp62561ev5rj2o6mee21vg971m8ll.apps.googleusercontent.com",
+              "client_id": "849984198070-efmq0ntim8lood2a6os25t286s2411tl.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.example.ojtProject"
